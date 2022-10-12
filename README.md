@@ -14,6 +14,7 @@ THE FILE CONSIST:
 
 ****************************************************************************************************************************
 Robot simulation package could refer to fourleg_gazebo (https://github.com/ycean/fourleg_gazebo.git)
+
 #for running the MIQP method contol for walking simulation could run the simulation script with:
 
 ./JP_COM_QP_OMNI_DIR_FV3_v2.py   
